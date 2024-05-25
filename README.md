@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Armenn25
-- 👀 I’m interested in coding and painting
+- 👋 Hi, I’m @Armen
 
 <!---
 Armenn25/Armenn25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
